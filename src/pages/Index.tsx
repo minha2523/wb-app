@@ -61,7 +61,7 @@ const StudyTracker = () => {
       <div className="max-w-4xl mx-auto space-y-8">
         <header className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold tracking-tight">Study Focus</h1>
+            <h1 className="text-3xl font-bold tracking-tight">Study Focus tool by Minha</h1>
             <p className="text-muted-foreground">Track your learning progress daily.</p>
           </div>
           <div className="bg-primary/10 p-3 rounded-full">
